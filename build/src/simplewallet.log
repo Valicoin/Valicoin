@@ -1,0 +1,17 @@
+2018-Apr-24 08:19:25.012915 INFO [simplewallet] Lyxcoin wallet v1.1.1.1()
+2018-Apr-24 08:19:40.256725 INFO [simplewallet] Generated new wallet: eyFdmwrvuS5MiKbL7FFEoGJiqbMbKcK6J8tHMyA7ERz9ZpZKNngYzMCMvNApowGESrjBvt6iXF2zhMcvoH4FF6qX1ZcjNRNcG
+2018-Apr-24 08:19:40.256725 INFO [simplewallet] view key: b79af94f7fa294b85d5f5e7071e5a249d900a536128e15421daffc6643332900
+2018-Apr-24 08:19:40.257062 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Apr-24 08:19:45.400397 INFO [simplewallet] Mining started in daemon
+2018-Apr-24 08:19:50.243893 INFO [simplewallet] Height 1, transaction 434618c50fa11aa43c94ef84c529dfb7839590e702c187d46a1b12a5aa84c062, received 500000.00
+2018-Apr-24 08:19:50.244123 INFO [simplewallet] Height 2, transaction 0f55ab6c1ecd629c5fc6dbd19f0c5dae74fe2589b4cd4cbb3f6193a6dcffd9b2, received 23.60
+2018-Apr-24 08:19:50.244223 INFO [simplewallet] Height 3, transaction 60c4ea364f1f465d8f9f45fd0b3b63f22058597f8ce4c737b306ca8ad0c67d20, received 23.60
+2018-Apr-24 08:20:04.109742 INFO [simplewallet] Mining stopped in daemon
+2018-Apr-24 08:20:19.120343 INFO [simplewallet] available balance: 0.00, locked amount: 500047.20
+2018-Apr-24 08:21:21.275949 INFO [simplewallet] Wallet closed
